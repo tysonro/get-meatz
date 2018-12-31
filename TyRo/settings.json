@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings
+{
+    "csharp.suppressDotnetRestoreNotification": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "omnisharp.projectLoadTimeout": 120,
+    "files.trimTrailingWhitespace": true
+}
