@@ -2,6 +2,9 @@
 You are reading the 'README.md' file at the root of the source code directory of this project. 
 This file is used to describe your project, what it does, how to deploy it and how to use it.
 
+
+UPDATE: Look into using this free weather API: https://pirateweather.net/
+
 ------------------------------------------------------------------------------------------------------------------------
 
 Welcome to the 'TyRo' Module. This module is intented to be used for demo purposes and/or testing and experimenting.
